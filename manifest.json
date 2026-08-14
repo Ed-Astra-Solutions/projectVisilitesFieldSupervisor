@@ -1,13 +1,17 @@
 {
-    "name": "field_supervisor",
-    "short_name": "field_supervisor",
+    "name": "VISILITES Field Supervisor",
+    "short_name": "VISILITES",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
-    "orientation": "portrait-primary",
+    "background_color": "#F8F9FA",
+    "theme_color": "#008080",
+    "description": "Tailoring at your door step — receive orders, assign tailors and manage deliveries for VISILITES field supervisors.",
+    "orientation": "any",
     "prefer_related_applications": false,
+    "categories": ["business", "productivity"],
+    "id": "/",
+    "scope": "/",
+    "lang": "en-IN",
     "icons": [
         {
             "src": "icons/Icon-192.png",
